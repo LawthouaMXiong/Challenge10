@@ -25,7 +25,7 @@ WHEN I open the `logo.svg` file in a browser<br />
 THEN I am shown a 300x200 pixel image that matches the criteria I entered<br />
 
 ## **Links to Portfolio**
-* GitHub Repository Link - https://github.com/LawthouaMXiong/Challenge10
+* GitHub Repository Link - https://github.com/LawthouaMXiong/SVGLogoMaker
 
 ## **Demo**
 ![Demo for challenge](/demo/Challenge10.gif)
